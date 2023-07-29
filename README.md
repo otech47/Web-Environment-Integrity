@@ -1,4 +1,4 @@
-# Web Environment Integrity API
+# Web Environment Authoritarian API
 
 This repository details the proposal to add a new API for determining the integrity
 of web environments:
